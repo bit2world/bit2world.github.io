@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.9815f798.js",
+    "main.css": "/static/css/main.eaacd069.css",
+    "main.js": "/static/js/main.fd25323b.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/codehorse.png": "/static/media/codehorse.3f634df07ab9ef740fa6.png",
     "static/media/Resume.pdf": "/static/media/Resume.26570579adb61adb514a.pdf",
     "static/media/chatGPT.png": "/static/media/chatGPT.1edd8f444963f441c261.png",
     "static/media/avatar.png": "/static/media/avatar.4126e5747b53c95a59cb.png",
@@ -12,19 +13,18 @@
     "static/media/mStable.png": "/static/media/mStable.d12e0571e4ca6736385a.png",
     "static/media/p2p_marketplace_app.jpg": "/static/media/p2p_marketplace_app.b6a678e5a6f424de6938.jpg",
     "static/media/software_marketplace.jpg": "/static/media/software_marketplace.c9480683cfd8c0609f8a.jpg",
-    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.9815f798.js.map": "/static/js/main.9815f798.js.map",
+    "main.eaacd069.css.map": "/static/css/main.eaacd069.css.map",
+    "main.fd25323b.js.map": "/static/js/main.fd25323b.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29bc8131.css",
-    "static/js/main.9815f798.js"
+    "static/css/main.eaacd069.css",
+    "static/js/main.fd25323b.js"
   ]
 }
